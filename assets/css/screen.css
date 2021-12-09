@@ -56,7 +56,6 @@ footer{
   font-size: 1.248em; /*19 / 16 = 1.248*/
   line-height: 1.547em; /*24 / 16 = 1.547*/
 }
-}
 #nav {
   font-family: Verdana, arial, helvetica, sans-serif;
   font-size: 1.438em; /*23 / 16 = 1.438*/
@@ -89,7 +88,6 @@ padding-top: 1.250em; /*20 / 16 = 1.250*/
 #resume-experience, ul{
     padding-left: 1.250em; /*20 / 16 = 1.250*/
     padding-right: 1.250em; /*20 / 16 = 1.250*/
-  }
 }
 /* Layout Styles */
 
@@ -128,4 +126,3 @@ padding-top: 1.250em; /*20 / 16 = 1.250*/
     text-align: center;
     width: 100%;
   }
-}
